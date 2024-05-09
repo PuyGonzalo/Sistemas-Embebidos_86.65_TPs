@@ -1,10 +1,10 @@
 # Directorio
-Directorio para acceder rápidamente a los diferentes repositorios creados para los Trabajos Prácticos de la materia Sistemas Embebidos (86.65).
+Directorio para acceder rápidamente a los distintos repositorios creados para los Trabajos Prácticos de la materia Sistemas Embebidos (86.65).
 
 ### Datos:
 - **Materia**: Sistemas Embebidos (86.65)
 - **Profesor**: Ariel Lutenberg
-- **Alumno**: Puy Gonzalo
+- **Alumno**: Gonzalo Puy
 - **Padrón**: 99784
 
 ---
