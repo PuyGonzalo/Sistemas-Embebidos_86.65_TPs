@@ -7,6 +7,8 @@ Directorio para acceder rápidamente a los distintos repositorios creados para l
 - **Alumno**: Gonzalo Puy
 - **Padrón**: 99784
 
+Dentro de la carpeta `Entregables` se encuentran los visados requeridos en la entrega de los trabajos.
+
 ---
 
 ### Trabajos Prácticos
