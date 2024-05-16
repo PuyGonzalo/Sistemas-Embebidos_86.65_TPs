@@ -45,7 +45,7 @@ Dentro de la carpeta `Entregables` se encuentran los visados requeridos en la en
   </tr>
     <tr align="center">
     <td>4</td>
-    <td>Eliminando Bloques</td>
+    <td>Eliminando Bloqueos</td>
     <td><a href="https://github.com/PuyGonzalo/subsection_5-4-2-TP_04">subsection_5-4-2-TP_04</a></td>
   </tr>
 </tbody>
