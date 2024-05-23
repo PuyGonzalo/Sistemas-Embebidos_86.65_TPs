@@ -48,5 +48,11 @@ Dentro de la carpeta `Entregables` se encuentran los visados requeridos en la en
     <td>Eliminando Bloqueos</td>
     <td><a href="https://github.com/PuyGonzalo/subsection_5-4-2-TP_04">subsection_5-4-2-TP_04</a></td>
   </tr>
+    </tr>
+    <tr align="center">
+    <td>5</td>
+    <td>Máquina de Estado & RTC</td>
+    <td><a href="https://github.com/PuyGonzalo/Example_4.4-TP_05.git">Example_4.4-TP_05</a></td>
+  </tr>
 </tbody>
 </table>
