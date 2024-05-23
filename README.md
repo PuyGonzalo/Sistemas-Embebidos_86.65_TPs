@@ -54,5 +54,16 @@ Dentro de la carpeta `Entregables` se encuentran los visados requeridos en la en
     <td>Máquina de Estado & RTC</td>
     <td><a href="https://github.com/PuyGonzalo/Example_4.4-TP_05.git">Example_4.4-TP_05</a></td>
   </tr>
+  <tr align="center">
+    <td rowspan="3">6</td>
+    <td rowspan="3">Display LCD e Interfaces</td>
+    <td><a href="https://github.com/PuyGonzalo/example_6.2-TP_06.git">Example_6.2-TP_06</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/PuyGonzalo/example_6.3-TP_06.git">Example_6.3-TP_06</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/PuyGonzalo/example_6.4-TP_06.git">Example_6.4-TP_06</a></td>
+  </tr>
 </tbody>
 </table>
