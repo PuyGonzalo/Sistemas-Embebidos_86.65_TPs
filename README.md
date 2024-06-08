@@ -65,5 +65,10 @@ Dentro de la carpeta `Entregables` se encuentran los visados requeridos en la en
   <tr align="center">
     <td><a href="https://github.com/PuyGonzalo/example_6.4-TP_06.git">Example_6.4-TP_06</a></td>
   </tr>
+  <tr align="center">
+    <td>TP FINAL</td>
+    <td>Monitorización de nivel de tanque de oxígeno</td>
+    <td><a href="https://github.com/PuyGonzalo/TP-Final-Monitorizacion-Tanque-Oxigeno.git">TP-Final-Monitorizacion-Tanque-Oxigeno</a></td>
+  </tr>
 </tbody>
 </table>
